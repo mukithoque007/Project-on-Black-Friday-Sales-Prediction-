@@ -1,5 +1,5 @@
 ## **Project-on-Black-Friday-Sales-Prediction**
-![alt text](https://drive.google.com/file/d/1haLEmI3Wqr555jAH9-GqbzQSJMosEb9B/view?usp=share_link)
+!(https://drive.google.com/file/d/1haLEmI3Wqr555jAH9-GqbzQSJMosEb9B/view?usp=share_link)
 
 ## Table Of Contents
   - [Project Introduction](#project-introduction)
