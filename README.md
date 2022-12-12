@@ -1,6 +1,7 @@
 ## **Project-on-Black-Friday-Sales-Prediction**
 
-(https://drive.google.com/file/d/1haLEmI3Wqr555jAH9-GqbzQSJMosEb9B/view?usp=share_link)
+![Screenshot 2022-12-12 163821](https://user-images.githubusercontent.com/120359057/206993338-28cb240c-a629-48a9-bb5b-b155862de787.jpg)
+
 
 ## Table Of Contents
   - [Project Introduction](#project-introduction)
